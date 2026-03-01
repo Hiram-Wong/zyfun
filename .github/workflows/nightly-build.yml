@@ -248,7 +248,7 @@ jobs:
 
       - name: Download all artifacts
         if: needs.check-commit.outputs.has_commit == 'true'
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v8
         with:
           path: all-artifacts
           merge-multiple: false
