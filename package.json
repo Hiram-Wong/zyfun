@@ -149,7 +149,7 @@
     "dotenv-cli": "^11.0.0",
     "dplayer": "github:Hiram-Wong/DPlayer#20fee56a188cc6397c686d4437f149dbe25894c6",
     "drizzle-orm": "^0.45.2",
-    "electron": "40.8.0",
+    "electron": "40.8.4",
     "electron-builder": "26.8.1",
     "electron-devtools-installer": "4.0.0",
     "electron-icon-builder": "^2.0.1",
