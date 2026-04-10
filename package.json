@@ -267,7 +267,7 @@
   },
   "pnpm": {
     "overrides": {
-      "basic-ftp": ">=5.2.0",
+      "basic-ftp": ">=5.2.2",
       "esbuild": "^0.25.0",
       "fast-xml-parser": ">=5.3.6",
       "jsonc-eslint-parser": "2.4.0",
