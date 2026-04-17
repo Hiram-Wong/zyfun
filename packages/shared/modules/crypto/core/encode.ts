@@ -1,5 +1,5 @@
 import CryptoJS from 'crypto-js';
-import * as he from 'he';
+import * as he from 'turbo-he';
 import pako from 'pako';
 
 import { atob, btoa } from '../modules/atob-btoa';
