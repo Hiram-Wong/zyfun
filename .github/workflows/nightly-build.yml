@@ -9,6 +9,7 @@ permissions:
   contents: write
   actions: write
 
+
 jobs:
   check-repository:
     runs-on: ubuntu-latest
