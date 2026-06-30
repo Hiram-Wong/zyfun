@@ -9,7 +9,6 @@ permissions:
   contents: write
   actions: write
 
-
 jobs:
   check-repository:
     runs-on: ubuntu-latest
@@ -145,7 +144,7 @@ jobs:
             platform: linux
             arch: arm64
             build_command: pnpm build:linux:arm64
-      fail-fast: false
+      fail-fast: true
 
     steps:
       - name: Check out Git repository
